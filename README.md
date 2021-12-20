@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @idimension18
+- 👋 Hi, I’m @idimension
 - 👀 I’m interested in create some video games..
 
 <!---
