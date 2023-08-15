@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @idimension
-- 👀 I’m interested in create some video games..
+- 👀 I’m interested to video games creation. 
 
 <!---
 idimension18/idimension18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
